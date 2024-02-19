@@ -2,9 +2,9 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣 𝕗𝕣𝕠𝕞 ℝ𝕦𝕤𝕤𝕚𝕒 🇷🇺<br>₋₌₋₌₋₌₋₌₋₌₋₌₋₌₋₌₋₌₋₌₋₌₋₌₋₌₋₌₋₌₋₌₋₌₋₌₋</h3>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MaksimPakhomov22&show_icons=true&bg_color=00000000&rank_icon=github&text_color=ffff99&title_color=0099ff&icon_color=0099ff)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MaksimPM&show_icons=true&bg_color=00000000&rank_icon=github&text_color=ffff99&title_color=0099ff&icon_color=0099ff)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaksimPakhomov22&hide_progress=true&bg_color=00000000&text_color=ffff99&title_color=0099ff&icon_color=0099ff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaksimPM&hide_progress=true&bg_color=00000000&text_color=ffff99&title_color=0099ff&icon_color=0099ff)
 
 <h2 align="left">𝕊𝕥𝕒𝕔𝕜:</h2>
 <h4 align="left">𝕓𝕒𝕔𝕜𝕖𝕟𝕕:</h4>
@@ -32,6 +32,6 @@
 <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" height="32"/>
 </h1>
 
-![Codewars](https://www.codewars.com/users/MaksimPakhomov22/badges/micro)
+![Codewars](https://www.codewars.com/users/MaksimPM/badges/micro)
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
